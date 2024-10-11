@@ -19,7 +19,7 @@ Select products and specify quantities.
 Click on the "Total Bill" button to calculate the total amount.
 Review the billing summary including product details, taxes, and total bill amount.
 Clear fields to start a new transaction or exit the application.
-# It Will the Generated Bills in the bill.txt files as below
+# It Will Store the Generated Bills in the bill.txt files as below
 ![image](https://github.com/user-attachments/assets/02065f47-dc1c-4a97-b120-384c46435823)
 
 
