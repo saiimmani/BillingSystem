@@ -1,15 +1,15 @@
 # Billing System
 Billing System This Project Follows FCFS Algorithm That is First Come First Serve
 ## Features:
-1.User-friendly Interface:
+1.User-friendly Interface:<br> 
 The application is built with a graphical user interface (GUI) using Tkinter, making it easy to navigate and use. <br> 
-2.Customizable Billing:
+2.Customizable Billing:<br> 
 You can add various products from different categories such as snacks, groceries, and beauty & hygiene products.
-3.Automatic Calculation:
+3.Automatic Calculation:<br> 
 The system automatically calculates the total bill amount, including taxes, based on the quantities and prices of selected items.<br> 
-4.Customer Details: 
+4.Customer Details:<br>  
 Capture customer details such as name and phone number to personalize the billing process.<br> 
-5.Clear and Exit Options:
+5.Clear and Exit Options:<br> 
 Clear the fields to start a new billing session, and exit the application when done.<br> 
 ## The GUI Looks Like
 ![image](https://github.com/user-attachments/assets/f94b890f-6ac3-472c-9c18-8f710d507e60)
