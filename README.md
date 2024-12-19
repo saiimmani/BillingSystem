@@ -10,7 +10,7 @@ The system automatically calculates the total bill amount, including taxes, base
 4.Customer Details:<br> Capture customer details such as name and phone number to personalize the billing process.<br> 
 5.Clear and Exit Options:<br> 
 Clear the fields to start a new billing session, and exit the application when done.<br> 
-## The GUI Looks Like
+## GUI 
 ![image](https://github.com/user-attachments/assets/f94b890f-6ac3-472c-9c18-8f710d507e60)
 ## Billing Process:
 1.Enter customer details including name and phone number.<br> 
