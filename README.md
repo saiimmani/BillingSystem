@@ -4,7 +4,7 @@ Billing System This Project Follows FCFS Algorithm That is First Come First Serv
 1.User-friendly Interface:<br> 
 The application is built with a graphical user interface (GUI) using Tkinter, making it easy to navigate and use. <br> 
 2.Customizable Billing:<br> 
-You can add various products from different categories such as snacks, groceries, and beauty & hygiene products.
+You can add various products from different categories such as snacks, groceries, and beauty & hygiene products.<br> 
 3.Automatic Calculation:<br> 
 The system automatically calculates the total bill amount, including taxes, based on the quantities and prices of selected items.<br> 
 4.Customer Details:<br>  
