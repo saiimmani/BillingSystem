@@ -7,8 +7,7 @@ The application is built with a graphical user interface (GUI) using Tkinter, ma
 You can add various products from different categories such as snacks, groceries, and beauty & hygiene products.<br> 
 3.Automatic Calculation:<br> 
 The system automatically calculates the total bill amount, including taxes, based on the quantities and prices of selected items.<br> 
-4.Customer Details:<br>  
-Capture customer details such as name and phone number to personalize the billing process.<br> 
+4.Customer Details:<br> Capture customer details such as name and phone number to personalize the billing process.<br> 
 5.Clear and Exit Options:<br> 
 Clear the fields to start a new billing session, and exit the application when done.<br> 
 ## The GUI Looks Like
