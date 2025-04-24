@@ -4,7 +4,7 @@ This **Grocery Billing System** simplifies the billing process by implementing t
 
 ---
 
-## 🔄 Features:
+## Features:
 
 1. **User-friendly Interface**:
    - The application is designed with a **graphical user interface (GUI)** using Tkinter, making it intuitive and easy to use.
@@ -23,7 +23,7 @@ This **Grocery Billing System** simplifies the billing process by implementing t
 
 ---
 
-## 🗺️ GUI Overview
+## GUI Overview
 
 ![GUI Screenshot](https://github.com/user-attachments/assets/f94b890f-6ac3-472c-9c18-8f710d507e60)
 
@@ -31,7 +31,7 @@ The GUI is designed for simplicity and clarity, allowing users to interact seaml
 
 ---
 
-## 💳 Billing Process:
+## Billing Process:
 
 1. **Enter Customer Details**:
    - Input the customer's name and phone number.
@@ -50,7 +50,7 @@ The GUI is designed for simplicity and clarity, allowing users to interact seaml
 
 ---
 
-## 📂 Storing Generated Bills
+## Storing Generated Bills
 
 The system automatically stores generated bills in a text file (`bill.txt`). Each entry includes:
 - Customer details (name and phone number).
@@ -71,7 +71,7 @@ The system automatically stores generated bills in a text file (`bill.txt`). Eac
 
 ---
 
-Start using the **Grocery Billing System** today to simplify your billing operations! 🎁
+Start using the **Grocery Billing System** today to simplify your billing operations!
 
 
 
